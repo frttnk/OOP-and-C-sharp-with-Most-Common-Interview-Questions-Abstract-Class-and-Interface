@@ -1,2 +1,2 @@
-# OOP-and-C-with-Most-Common-Interview-Questions---Abstract-Class-and-Interface
-OOP and C# with Most Common Interview Questions - Abstract Class and Interface
+You can visit the below link to have more details 
+https://medium.com/@firattonak/oop-and-c-with-most-common-interview-questions-abstract-class-and-interface-e57284758ad1
